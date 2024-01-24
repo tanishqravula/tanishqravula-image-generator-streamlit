@@ -1,5 +1,4 @@
 import streamlit as st
-from replicate import NSFWError
 import replicate as rp
 import os
 import requests
